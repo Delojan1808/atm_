@@ -1,0 +1,9 @@
+.button{
+    display: flex;
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    color: black;
+    justify-content: center;
+    font-size: x-large;
+}

@@ -1,0 +1,9 @@
+.home{
+    border: 2px rgb(255, 255, 255) solid;
+    background-color: #500073;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    padding: 5rem;
+    border-radius: 50px;
+}

@@ -1,0 +1,17 @@
+.InputLabel{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    padding: 10px;
+}
+.label{
+    font-size:26px;
+    
+}
+
+.input{
+    border-radius: 50px;
+    /* border: none; */
+    font-size: 25px;
+    background: none;
+}

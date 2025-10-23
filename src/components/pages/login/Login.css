@@ -1,0 +1,21 @@
+.card{
+    border: 0.3rem solid rgb(249, 249, 249);
+    /* background-color: aqua; */
+    /* width: 40rem; */
+    /* height: 22rem; */
+    padding: 3rem;
+    border-radius: 50px;
+    background-color: #500073;
+    align-items: center;
+    row-gap: 4rem;
+    justify-content: center;
+    display: flex;
+}
+.card:hover{
+    box-shadow: 0 0 2rem #bbbb;
+    scale: 1.1;
+}
+
+Input{
+    text-align: center;
+}

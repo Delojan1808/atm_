@@ -1,0 +1,13 @@
+.depositTableOut {
+  border: 2px solid white;
+  /* display: flex; */
+}
+td,
+th {
+  border: 2px solid white;
+  padding: 10px 20px;
+}
+
+.depositTable{
+    display: flex;
+}

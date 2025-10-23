@@ -1,0 +1,12 @@
+.transactions{
+    max-height: 300px;
+    overflow-y:auto;
+}
+
+.Withdrawel:hover{
+    background-color: #b5292989;
+}
+
+.Deposit:hover{
+    background-color: #239b29a9;
+}

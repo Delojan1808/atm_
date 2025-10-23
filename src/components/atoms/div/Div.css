@@ -1,0 +1,11 @@
+.Div{
+    row-gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #3f3f3f3e;
+    padding: 3rem;
+    border-radius: 50px;
+    border: 2px solid white;
+    align-items: center;
+    justify-content: center;
+}
